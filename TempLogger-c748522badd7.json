@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "templogger-1305",
+  "private_key_id": "c748522badd7b709eb66aaa34e4db200c59803aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCZHWEqob55W5OZ\nML2o2XW9W79ogMyIhCStcyr4+6RZpHVCI5fQ39CEJCVU8m8T+rf9DPT81/hPT3T1\novbUWgrPQrN1hC73c/2rTRwKZ7ytl0U7oYs5HOMoOv9mkyRag+WkMItaeiSp2S7i\n+MT8q65G+IN9LM/2+0NaFV1NQSozBD3EZQLzCKTkX7UnGx2ZjqCePibqRlE0P5vK\nzpdrRSsIOj1C0ET9J+zZCe38lTDoHNWn2I1XolLkXo9YTAHUlTjAlZC1YEwpUAKF\nKSBBLel8KssuZABLbN6+A9Rc4nWJQQNYxmjX3+SXDgyD0ZBFNEvfU5jSm9KgF8OA\n2bq7o3ZLAgMBAAECggEAbaI5xtrVlfPadaAOzW4X/iRJo7xFt6JW2NNT+7/DaGR3\niYoO1ILNvTBcgrysiHPHdivm53yE0dUk/BVaA6cNgmZSNV0WfBzTj+rAnzq0QN/F\ntPLwy05B4LaN1ZaaOy2iKrSPs5Mt2WgnSGG0Ou969FpRXDnQFxrGmSQfEIgOfUP5\nxPG6/7xdSPaVPawA+KR2QqMo6+aDUd8h5rJJ7t5HZt0k45wfAlUEAiz3i3nqyVdD\nBSYXzipgHDBjyLmMyg77AD2m3YfWKRnpJaOWS0/OLKWLN7D9deQ00LAACbQHLnaz\n13ggpf9LCrLVnnt573CM131A5Tp7m7dtjDrNKV2/wQKBgQDWQ5mDBL2YlbOeKC3R\n2ivP4DX2SKwmCytG4LdZsoiPJumVuT/+BK97MxYIrcr1eoB+GuLhmj3JDwHmGSOA\npMdKDd+fqO/eWUZnwjQgrXgIjxPEFQSTTPBMxJhfvuXSO0hKhtH30GdfyUbB1Dfm\nIO6Glb6s4KhZX/VgvX6YHqw2WwKBgQC28Ij84llsRXxuK/LxtUvuN6AEHs6DDkTl\nmnlCoAtiJRcGZEagQEvOVwH+dzTcpm8SNdS0Qn4XCbLE7qauAqrvit8wdKe/lX1j\nd9UKfml76VlduV4WnpJVWVqa9ZQQY1XmAv/BYCdvWm4jTTvDl3G6jQ22hfLQff4t\nR77lW+ki0QKBgQCrfonVYyr5gQC2GwSpjY05ogSu7nXTMWdfIKfARHSm14dojlCY\n2Vk3K6l8ItZq6rUDujNUTScc0UU8zWwsIDden4IYgZgUCLKgg8FDUnTbrOEuNYBn\nAdLoLwaiw+GhBlATTpuqVQUYlrpqk5h2Om+QCzUFm/9DIdn9p043JX3DNwKBgFWX\nrxBauyocTL6jU3ThtVgMsJKc81SALZ4bq1aP2SOfZOl5q025J36wWN99WL9QI7Gq\nfA2m+qW+xOS9IEFUQDP5jrl2KzJJODR80bGqOaJfKI/gdfQxVxgVyX2tHwyX3Y3T\no2QPoAPKlLNxpF+8ENsOufbHLzd7a5w18EwRt7+xAoGBAMPJCrtglQCTvvn8aMAy\nYhWg6VcnloC4W/3/+O/TU+XZM5yMypnHAZ7aYdn8JCnHatXzkQywp+HKBfGeNUJK\nhnYTcbRGIeZSQsqYMRfhQGrG3Ef6STh331r7nA/Pl1bLJkDyCDW+7NlJ6/R0+U+V\nRJvymuk6gNMMLORbPR7A2L6d\n-----END PRIVATE KEY-----\n",
+  "client_email": "temperaturelogger@templogger-1305.iam.gserviceaccount.com",
+  "client_id": "117559120555093920553",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/temperaturelogger%40templogger-1305.iam.gserviceaccount.com"
+}
