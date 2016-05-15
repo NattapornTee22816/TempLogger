@@ -3,11 +3,11 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 scope = ['https://spreadsheets.google.com/feeds']
 
-credentials = ServiceAccountCredentials.from_json_keyfile_name('TempLogger-c748522badd7.json', scope)
+credentials = ServiceAccountCredentials.from_json_keyfile_name('file name.json', scope)
 
 gc = gspread.authorize(credentials)
 
-worksheet = gc.open("TempLogger").sheet1
+worksheet = gc.open("sheet name").sheet1
 
 #part read Temp and append to sheet
 #initiate the temperature sensor
